@@ -20,8 +20,8 @@
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/Zlkcyber/LedgeBot.git
-    cd LedgeBot
+    git clone https://github.com/Kazuha787/Layeredge2.git
+    cd Layeredge2
     ```
 
 2. Install the required dependencies:
